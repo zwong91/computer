@@ -1,18 +1,7 @@
-# computer - 计算机体系结构
+## x86 汇编语言
+
 
 [本项目地址](https://github.com/StevenBaby/computer)
-
-## 一个8位二进制CPU的设计和实现
-
-
-![snapshot](./cpu/snapshot.jpg)
-
-- [相关 bilibili 视频](https://www.bilibili.com/video/BV1aP4y1s7Vf)
-
-- [LogicCircuit](http://www.logiccircuit.org/)
-
-
-## x86 汇编语言
 
 > 不同视频的代码请查看 git commit 历史。
 
